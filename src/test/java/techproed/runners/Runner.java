@@ -21,7 +21,7 @@ senaryoyu çalıştırabiliriz
                 "junit:target/xml-report/cucumber.xml"
         },
 
-        monochrome = true, //Konsolu okunaklı hale !! getirir.
+        monochrome = false, //Konsolu okunaklı hale !! getirir.
         features = "src/test/resources/features",
         glue = {"techproed/stepDefinitions"},//Bu parametre ile kodlarımızı yazdığımız stepDefinition
         //class'ının packege'ını belirtiriz
