@@ -29,6 +29,32 @@ public class MedunnaPage {
     @FindBy(xpath = "//button[@type='submit']")
     public WebElement signInButton;
 
+    @FindBy(id = "entity-menu")
+    public WebElement itemsTitles;
+
+    @FindBy(linkText = "Room")
+    public WebElement roomSecenegi;
+
+    @FindBy(id = "jh-create-entity")
+    public WebElement createANewRoom;
+
+    @FindBy(id = "room-roomNumber")
+    public WebElement roomNumber;
+
+    @FindBy(id = "room-roomType")
+    public WebElement roomTypeDropDown;
+
+    @FindBy(id = "room-price")
+    public WebElement roomPrice;
+
+    @FindBy(id = "room-description")
+    public WebElement description;
+
+    @FindBy(id = "save-entity")
+    public WebElement saveButton;
+
+    @FindBy(xpath = "//div[@role='alert']")
+    public WebElement kaydedildiAlerti;
 
 
 }
