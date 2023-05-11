@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fcbafa3-c789-4ec6-af64-0ec640b45442" name="Changes" comment="v1">
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/BlueRentalCarPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/day33_DataTable_Hooksa/datatable_test.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/pages/MedunnaPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/MedunnaPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/runners/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/stepDefinitions/MedunnaStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/stepDefinitions/MedunnaStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/day32_ScenerioOutline_Reports_DataTable/US001_MedunnaRoom.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/day32_ScenerioOutline_Reports_DataTable/US001_MedunnaRoom.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/stepDefinitions/GoogleStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/stepDefinitions/GoogleStepDefinitions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +186,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683624460308</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="v1">
+      <created>1683629180278</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683629180278</updated>
+    </task>
+    <task id="LOCAL-00005" summary="v1">
+      <created>1683629340613</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683629340613</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UnknownFeatures">
