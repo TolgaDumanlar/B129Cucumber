@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8fcbafa3-c789-4ec6-af64-0ec640b45442" name="Changes" comment="v1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/pages/BlueRentalCarPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/BlueRentalCarPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/runners/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/stepDefinitions/BlueRentalCarStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/stepDefinitions/BlueRentalCarStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/day33_DataTable_Hooksa/datatable_test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/day33_DataTable_Hooksa/datatable_test.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683796747308</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="v1">
+      <created>1683803600385</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683803600385</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UnknownFeatures">
